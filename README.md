@@ -206,6 +206,7 @@ Tech Stack: Angular PWA • 5 Node.js Microservices • Redis • BullMQ • Ope
 | Push Notifications (FCM) | ReliefLink, CivicPulse |
 
 ---
+<p>Project ideas folder is inside whatsappclone folder in system</p>
 
 <div align="center">
 
